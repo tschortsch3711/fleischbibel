@@ -12,6 +12,8 @@ Entscheidungen sollen pragmatisch getroffen werden.
 
 Nicht jede Frage braucht ein Grundsatzurteil. Manchmal reicht: Wer kann, macht. Wer mitisst, beteiligt sich angemessen.
 
+Eine Fleischversammlung braucht keine zentrale Freigabe. Wer Ort, Zeit und Rahmen klärt, kann sie vorschlagen.
+
 ::: tip Entscheidungsmaßstab
 Wenn eine Lösung funktioniert, fair ist und Fleisch ermöglicht, ist sie meist ausreichend amtlich.
 :::
