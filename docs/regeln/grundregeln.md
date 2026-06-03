@@ -11,7 +11,7 @@
 9. Die Fleischgemeinschaft soll unkompliziert bleiben.
 10. Im Zweifel bringt jeder sein eigenes Grillgut und seine eigenen Getränke mit.
 11. Wer mitisst, hilft danach beim ordentlichen Aufräumen mit.
-12. Entstehende Kosten werden fair und pragmatisch auf die anwesenden Fleischlinge verteilt.
+12. Kosten werden fair und pragmatisch auf die anwesenden Fleischlinge verteilt.
 
 ::: tip Grundsatz
 Wenn sich niemand für eine Aufgabe findet, wird dieser Teil nicht gemacht. Das ist kein Drama, sondern gelebte Dezentralität.
