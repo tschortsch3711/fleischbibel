@@ -4,12 +4,12 @@ export default defineConfig({
   title: 'Die Fleischbibel',
   description: 'Die zentrale Dokumentation der Fleischgemeinschaft',
   lang: 'de-DE',
-  base: '/fleischbibel/',
+  base: '/',
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
     logo: { light: '/logo.svg', dark: '/logo.svg' },
-    logoLink: '/fleischbibel/',
+    logoLink: '/',
     nav: [
       { text: 'Start', link: '/' },
       { text: '2-Minuten-Guide', link: '/schnellstart' },

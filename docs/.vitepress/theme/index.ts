@@ -3,7 +3,7 @@ import { inBrowser } from 'vitepress'
 import './custom.css'
 
 function fixHomeLink() {
-  const homePath = '/fleischbibel/'
+  const homePath = '/'
   const titleLinks = document.querySelectorAll<HTMLAnchorElement>('.VPNavBarTitle a, a.VPNavBarTitle')
 
   titleLinks.forEach((link) => {
