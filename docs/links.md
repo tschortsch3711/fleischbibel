@@ -11,6 +11,8 @@ Zentrale Links und Hinweise der Fleischgemeinschaft.
 
 ::: tip Hinweis
 Die Fleischbibel ist öffentlich erreichbar. Private oder wechselnde Links, insbesondere zur WhatsApp-Gruppe und zum monatlichen Fleischmeldeamt, werden deshalb nicht dauerhaft hier veröffentlicht.
+
+Aktuelle operative Links stehen für Mitglieder in der WhatsApp-Gruppenbeschreibung.
 :::
 
 ::: warning Datenschutz
