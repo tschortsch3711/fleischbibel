@@ -61,7 +61,12 @@ export default defineConfig({
           { text: 'Überblick', link: '/kultur/' },
           { text: 'Fleischhymne', link: '/kultur/fleischhymne' },
           { text: 'Begriffe', link: '/kultur/begriffe' },
-          { text: 'Chronik', link: '/kultur/chronik' },
+          { text: 'Chronik', link: '/kultur/chronik' }
+        ]
+      },
+      {
+        text: 'Verwaltung',
+        items: [
           { text: 'Links', link: '/links' },
           { text: 'Hinweise', link: '/hinweise' }
         ]
