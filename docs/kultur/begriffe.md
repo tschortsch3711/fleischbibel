@@ -5,8 +5,11 @@ Begriffe helfen, gemeinsame Sprache festzuhalten.
 | Begriff | Bedeutung |
 | --- | --- |
 | Fleischgemeinschaft | Freiwilliger Zusammenschluss zur Pflege fleischbezogener Zusammenkünfte |
-| Fleischmeldeamt | Stelle für Abfragen, Links und Terminübersicht |
-| Hauptfleischversammlung | Größeres Treffen mit besonderer Bedeutung |
+| Fleischmeldeamt | Monatliche Meldestelle für Verfügbarkeiten, Fleischesslust und den daraus entstehenden Fleischkalender |
+| Fleischkalender | Übersicht der monatlichen Verfügbarkeiten und Grundlage für Hauptfleischversammlungen sowie dezentrale Treffen |
+| Fragab | Werkzeug zur monatlichen Abfrage der Verfügbarkeiten |
+| Hauptfleischversammlung | Größeres monatliches Treffen mit besonderer Bedeutung, sofern Verfügbarkeit, Ort und Organisation zusammenfinden |
+| Fleischversammlung | Jedes vorgeschlagene oder ausgerichtete Treffen mit fleischbezogenem Zweck |
 | Fleischbibel | Dauerhafte Dokumentation der Regeln, Abläufe und Kultur |
 | Fleischeslust | Freude an Grillgut, Gemeinschaft und angemessener Sättigung |
 
