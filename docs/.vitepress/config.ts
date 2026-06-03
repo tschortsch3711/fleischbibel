@@ -51,7 +51,7 @@ export default defineConfig({
         items: [
           { text: 'Überblick', link: '/organisation/' },
           { text: 'Kein Oberhaupt', link: '/organisation/kein-oberhaupt' },
-          { text: 'Rollen', link: '/organisation/rollen' },
+          { text: 'Freiwillige Beiträge', link: '/organisation/rollen' },
           { text: 'Entscheidungen', link: '/organisation/entscheidungen' }
         ]
       },
