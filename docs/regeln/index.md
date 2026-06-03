@@ -13,6 +13,9 @@ Sie sorgen dafür, dass Termine, Erwartungen und Zuständigkeiten klar bleiben. 
 - Freiwillig helfen.
 - Nichts zerreden.
 - Fleisch nicht unnötig verkomplizieren.
+- Selbstversorgung ist der Standard, sofern nichts anderes angeboten wird.
+- Nach dem Fleischgelage wird gemeinsam aufgeräumt.
+- Kosten werden fair und pragmatisch geteilt.
 
 ::: warning Wichtig
 Regeln ersetzen keine gute Laune. Sie verhindern nur, dass schlechte Organisation sie auffrisst.
