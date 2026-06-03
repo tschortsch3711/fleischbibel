@@ -36,9 +36,10 @@ body {
 }
 
 .VPNavBar.has-sidebar .content,
-.VPNavBar:not(.has-sidebar) .content {
-  background: rgba(19, 15, 16, 0.84);
-  backdrop-filter: blur(18px);
+.VPNavBar:not(.has-sidebar) .content,
+.VPNavBar .content-body {
+  background: transparent !important;
+  backdrop-filter: none !important;
 }
 
 .VPNavBarTitle .title {
