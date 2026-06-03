@@ -66,14 +66,40 @@ body {
 
 .VPHero .text {
   color: #fff6e6;
-  max-width: 760px;
+  max-width: 960px;
 }
 
 .VPHero .tagline {
   color: #d8c5ad;
-  max-width: 680px;
+  max-width: 960px;
   font-size: 22px;
   line-height: 1.55;
+}
+
+@media (min-width: 960px) {
+  .VPHero .main {
+    max-width: 1080px;
+  }
+
+  .VPHero .text,
+  .VPHero .tagline {
+    white-space: nowrap;
+    overflow: visible;
+  }
+}
+
+@media (max-width: 959px) {
+  .VPHero .main,
+  .VPHero .text,
+  .VPHero .tagline {
+    max-width: 100%;
+  }
+
+  .VPHero .text,
+  .VPHero .tagline {
+    white-space: normal;
+    overflow-wrap: normal;
+  }
 }
 
 .VPHero .actions {
