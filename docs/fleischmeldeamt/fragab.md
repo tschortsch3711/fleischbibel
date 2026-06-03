@@ -1,13 +1,17 @@
 # Fragab
 
-Fragab dient der monatlichen Terminübersicht.
+Fragab dient der monatlichen Terminübersicht der Fleischgemeinschaft.
 
-## Link
+Aus allen abgegebenen Stimmen entsteht der zentrale Fleischkalender. Er macht sichtbar, an welchen Tagen bei welchen Mitgliedern grundsätzlich Fleischesslust besteht.
 
-[Fragab-Link öffnen](https://example.com/fragab-placeholder)
+## Aktueller Link
 
-::: warning Platzhalter
-Dieser Link ist ein Platzhalter. Er muss durch den echten Fragab-Link der Fleischgemeinschaft ersetzt werden.
+Der aktuelle Fragab-Link wird nicht öffentlich in der Fleischbibel veröffentlicht.
+
+Er wird jeden Monat in der WhatsApp-Gruppenbeschreibung erneuert und ist dort für Mitglieder der Fleischgemeinschaft sichtbar.
+
+::: tip Warum nicht hier?
+Die Fleischbibel ist öffentlich erreichbar. Der monatliche Fragab-Link ist dagegen ein wechselnder Organisationslink für die Gruppe und bleibt deshalb in der WhatsApp-Gruppe.
 :::
 
 ## Nutzung
@@ -21,8 +25,20 @@ Fragab zeigt Möglichkeiten. Die konkrete Planung findet danach gemeinsam statt.
 
 ## Eigene Vorschläge
 
-Wer selbst eine Fleischversammlung vorschlagen möchte, kann eine eigene Abfrage anlegen. Dafür kann eine Registrierung oder ein Konto bei Fragab erforderlich sein.
+Jedes Mitglied kann jederzeit eine eigene Fleischversammlung vorschlagen oder ausrichten.
 
-Wichtig ist ein klarer Betreff, damit später noch erkennbar ist, worum es ging.
+Das Fleischmeldeamt zeigt, wer grundsätzlich verfügbar ist. Wer an einem Termin genug Fleischesslust erkennt, kann daraus selbstständig ein Treffen anstoßen.
 
-[Mehr zu Fleischversammlungen](/fleischmeldeamt/fleischversammlungen)
+Dafür braucht es kein Oberhaupt und keine Freigabe. Wichtig sind nur klare Angaben zu Datum, Uhrzeit, Ort und offenem Bedarf.
+
+Beispiele für sinnvolle Angaben:
+
+- Wann soll die Fleischversammlung stattfinden?
+- Wo soll sie stattfinden?
+- Wer bringt Grill, Fleisch, Getränke oder Beilagen mit?
+- Gibt es Mitfahrgelegenheiten?
+- Ist es eine offene Runde oder eine kleinere Abstimmung unter den verfügbaren Personen?
+
+So entsteht aus den monatlichen Stimmen kein starrer Pflichttermin, sondern ein lebendiger Fleischkalender.
+
+[Mehr zur Hauptfleischversammlung](/fleischmeldeamt/hauptfleischversammlung)
