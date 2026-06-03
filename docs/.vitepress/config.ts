@@ -11,6 +11,7 @@ export default defineConfig({
     logo: { light: '/logo.svg', dark: '/logo.svg' },
     nav: [
       { text: 'Start', link: '/' },
+      { text: '2-Minuten-Guide', link: '/schnellstart' },
       { text: 'Fleischgemeinschaft', link: '/gemeinschaft/' },
       { text: 'Regeln', link: '/regeln/' },
       { text: 'Fleischmeldeamt', link: '/fleischmeldeamt/' },
@@ -19,6 +20,12 @@ export default defineConfig({
       { text: 'Links', link: '/links' }
     ],
     sidebar: [
+      {
+        text: 'Schnellstart',
+        items: [
+          { text: '2-Minuten-Guide', link: '/schnellstart' }
+        ]
+      },
       {
         text: 'Die Fleischgemeinschaft',
         items: [

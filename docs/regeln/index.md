@@ -2,7 +2,7 @@
 
 Diese Regeln sollen nicht verkomplizieren, sondern vereinfachen.
 
-Sie sorgen dafür, dass Termine, Erwartungen und Zuständigkeiten klar bleiben. Die Fleischgemeinschaft braucht keine Satzung mit Siegelwachs, aber ein paar verlässliche Grundsätze.
+Sie halten Termine, Erwartungen und Zuständigkeiten klar. Keine Satzung, nur verlässliche Grundsätze.
 
 ## Kurzfassung
 

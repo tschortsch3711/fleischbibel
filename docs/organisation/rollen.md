@@ -1,12 +1,8 @@
 # Freiwillige Beiträge
 
-Freiwillige Beiträge können einzelne Treffen erleichtern. Sie sind keine festen Rollen, keine Ämter und keine dauerhaften Zuständigkeiten.
+Freiwillige Beiträge erleichtern Treffen. Sie sind keine Ämter, keine Pflichtrollen und keine dauerhaften Zuständigkeiten.
 
-Es gibt keine Pflichtrollen.
-
-Es gibt nur Dinge, die getan werden können, wenn jemand Lust, Zeit oder Möglichkeit dazu hat.
-
-Wer einmal hilft, wird dadurch nicht dauerhaft zuständig.
+Wer einmal hilft, bleibt dadurch nicht automatisch zuständig.
 
 ## Mögliche Beiträge
 
@@ -28,5 +24,3 @@ Wer einmal hilft, wird dadurch nicht dauerhaft zuständig.
 Beiträge entstehen aus Möglichkeit, nicht aus Erwartung.
 
 Wer etwas anbietet, hilft der Fleischgemeinschaft. Wer nichts anbieten kann, bleibt trotzdem Teil der Fleischgemeinschaft.
-
-Nach dem Treffen oder der konkreten Aufgabe fällt jeder Beitrag automatisch wieder in den Zustand allgemeiner Freiheit zurück.

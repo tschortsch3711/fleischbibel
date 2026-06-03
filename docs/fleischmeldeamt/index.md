@@ -1,19 +1,15 @@
 # Fleischmeldeamt
 
-Das Fleischmeldeamt ist die amtlich anmutende Schaltstelle für Terminverfügbarkeit, Zusammenkunftswillen und sonstige fleischbezogene Lebenszeichen.
+Das Fleischmeldeamt sammelt monatlich die Verfügbarkeiten der Fleischgemeinschaft.
 
-Es verwaltet keine Menschen. Es sammelt nur Antworten.
-
-Aus den monatlichen Rückmeldungen entsteht der zentrale Fleischkalender der Gemeinschaft. Er zeigt, wann bei welchen Mitgliedern grundsätzlich Fleischesslust besteht.
+Aus den Rückmeldungen entsteht der zentrale Fleischkalender. Er zeigt, wann bei welchen Mitgliedern grundsätzlich Fleischesslust besteht.
 
 ## Aufgaben
 
-- monatliche Verfügbarkeiten abfragen
-- aktuelle Monatsabfrage über WhatsApp sichtbar machen
-- erkennbare Terminfenster sichtbar machen
-- spontane Fleischversammlungen als Vorschlag erfassen
-- Hauptfleischversammlungen vorbereiten
-- den Überblick bewahren, ohne ein Oberhaupt zu werden
+- monatliche Verfügbarkeiten sammeln
+- den Fleischkalender sichtbar machen
+- die Hauptfleischversammlung erleichtern
+- dezentrale Fleischversammlungen ermöglichen
 
 ::: tip Dienstweg
 Fleischmeldeamt ist das Konzept. Fragab ist das Werkzeug. Der Fleischkalender ist das Ergebnis.

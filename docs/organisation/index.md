@@ -2,7 +2,7 @@
 
 Die Fleischgemeinschaft ist dezentral organisiert.
 
-Es gibt kein dauerhaftes Oberhaupt, keine automatische Geschäftsführung und keine unsichtbare Pflicht, immer dieselben Personen arbeiten zu lassen.
+Es gibt kein dauerhaftes Oberhaupt, keine feste Geschäftsführung und keine Pflicht, dass immer dieselben Personen organisieren.
 
 ## Prinzip
 

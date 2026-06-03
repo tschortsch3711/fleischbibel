@@ -16,4 +16,4 @@ Wer jemanden einlädt, sollte einschätzen können, dass die Person zur Fleischg
 
 Neue Mitglieder sollen zuerst die WhatsApp-Gruppenbeschreibung und anschließend die Fleischbibel lesen.
 
-Wer aufgenommen wird, tritt nicht einfach einer WhatsApp-Gruppe bei. Er betritt den Wirkungskreis der Fleischgemeinschaft. Das verpflichtet zu nichts Unmenschlichem, aber zu Grundverständnis, Zuverlässigkeit und angemessener Würdigung des Grillguts.
+Wer aufgenommen wird, tritt nicht nur einer WhatsApp-Gruppe bei, sondern der Fleischgemeinschaft. Erwartet werden Grundverständnis, Zuverlässigkeit und angemessene Würdigung des Grillguts.

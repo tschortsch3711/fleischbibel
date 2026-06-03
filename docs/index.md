@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: Zur Fleischgemeinschaft
       link: /gemeinschaft/
+    - theme: alt
+      text: 2-Minuten-Guide
+      link: /schnellstart
 
 features:
   - icon: 🥩
@@ -22,7 +25,7 @@ features:
     details: Klare Grundsätze für WhatsApp, Treffen, Organisation und freiwillige Beteiligung.
   - icon: 🧭
     title: Organisation
-    details: Kein Oberhaupt, klare Rollen auf Zeit und Entscheidungen, die Fleisch ermöglichen statt verhindern.
+    details: Kein Oberhaupt, freiwillige Beiträge und Entscheidungen, die Fleisch ermöglichen statt verhindern.
   - icon: 🍻
     title: Kultur
     details: Begriffe, Hymne, Chronik und sonstige Zeugnisse der Fleischwerdung.
@@ -33,51 +36,20 @@ features:
 
 ## Zweck dieser Seite
 
-Die Fleischbibel ist der feste Ort für alles, was in der WhatsApp-Gruppe zu wichtig ist, um zwischen Bildern, Sprüchen und Terminabsprachen unterzugehen.
+Die Fleischbibel sammelt alles, was in der WhatsApp-Gruppe zu wichtig ist, um zwischen Bildern, Sprüchen und Terminabsprachen unterzugehen.
 
-Sie sammelt Regeln, Abläufe, Zugangshinweise und Begriffe der Fleischgemeinschaft.
+Sie erklärt Regeln, Abläufe, Zugangshinweise und Begriffe der Fleischgemeinschaft.
 
-Kurzfassung:
+Kurz gesagt:
 
-- WhatsApp dient der schnellen Abstimmung.
-- Die WhatsApp-Gruppenbeschreibung enthält aktuelle operative Links, zum Beispiel zum monatlichen Fleischmeldeamt.
-- Das Fleischmeldeamt bildet aus den monatlichen Rückmeldungen den gemeinsamen Fleischkalender.
-- Fragab ist das Werkzeug für die monatliche Abfrage.
-- Die Fleischbibel dient der dauerhaften Orientierung.
+- WhatsApp ist für schnelle Abstimmung.
+- Die Gruppenbeschreibung enthält aktuelle operative Links.
+- Das Fleischmeldeamt macht Verfügbarkeiten sichtbar.
+- Aus den Rückmeldungen entsteht der Fleischkalender.
+- Die Fleischbibel erklärt dauerhaft Regeln, Abläufe und Grundsätze.
 
-::: tip Amtlicher Hinweis
-Wer Orientierung sucht, liest hier. Wer Hunger hat, meldet sich im Fleischmeldeamt.
-:::
-
-## Lesepfad
-
-Wer die Fleischbibel einmal von vorne bis hinten lesen möchte, folgt dieser Reihenfolge:
-
-1. [Die Fleischgemeinschaft](/gemeinschaft/)
-2. [Selbstverständnis](/gemeinschaft/selbstverstaendnis)
-3. [Aufnahmebedingungen](/gemeinschaft/aufnahmebedingungen)
-4. [Regeln](/regeln/)
-5. [Grundregeln](/regeln/grundregeln)
-6. [WhatsApp](/regeln/whatsapp)
-7. [Zusammenkünfte](/regeln/zusammenkuenfte)
-8. [Fleischmeldeamt](/fleischmeldeamt/)
-9. [Monatliche Abfrage](/fleischmeldeamt/monatliche-abfrage)
-10. [Fleischversammlungen](/fleischmeldeamt/fleischversammlungen)
-11. [Hauptfleischversammlung](/fleischmeldeamt/hauptfleischversammlung)
-12. [Fragab](/fleischmeldeamt/fragab)
-13. [Organisation](/organisation/)
-14. [Kein Oberhaupt](/organisation/kein-oberhaupt)
-15. [Rollen](/organisation/rollen)
-16. [Entscheidungen](/organisation/entscheidungen)
-17. [Rituale & Kultur](/kultur/)
-18. [Fleischhymne](/kultur/fleischhymne)
-19. [Begriffe](/kultur/begriffe)
-20. [Chronik](/kultur/chronik)
-21. [Links](/links)
-22. [Hinweise](/hinweise)
-
-::: info Durchschlängeln
-Die Sidebar und die Links unten auf den Seiten folgen diesem Weg. So kann man die Fleischbibel einmal vollständig lesen, ohne wichtige Abschnitte zu überspringen.
+::: tip Schneller Einstieg
+Wer neu ist oder wenig Zeit hat, beginnt mit dem [2-Minuten-Guide](/schnellstart).
 :::
 
 [Weiter zur Fleischgemeinschaft](/gemeinschaft/)

@@ -1,6 +1,6 @@
 # Fleischhymne
 
-Die Fleischhymne ist das musikalische Hoheitszeichen der Fleischgemeinschaft, sofern eine solche Würde gerade behauptet wird.
+Die Fleischhymne ist das musikalische Hoheitszeichen der Fleischgemeinschaft.
 
 ## Link
 

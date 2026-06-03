@@ -11,11 +11,7 @@ Entscheidungen sollen pragmatisch getroffen werden.
 - werden nicht unnötig zerredet
 - machen eine Fleischversammlung eher möglich als komplizierter
 
-Nicht jede Frage braucht ein Grundsatzurteil. Manchmal reicht: Wer kann, macht. Wer mitisst, beteiligt sich angemessen.
-
 Eine Fleischversammlung braucht keine zentrale Freigabe. Wer Ort, Zeit und Rahmen klärt, kann sie vorschlagen.
-
-Die beste Entscheidung ist oft die, die eine Fleischversammlung überhaupt möglich macht.
 
 Nicht jede Frage braucht Abstimmung, Protokoll oder Grundsatzdiskussion. Wenn ein Vorschlag fair, machbar und fleischdienlich ist, reicht das meistens.
 

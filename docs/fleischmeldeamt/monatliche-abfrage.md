@@ -1,17 +1,14 @@
 # Monatliche Abfrage
 
-Die monatliche Abfrage dient dazu, mögliche Termine früh sichtbar zu machen.
-
-Aus den Antworten entsteht der monatliche Fleischkalender. Daraus können eine Hauptfleischversammlung und beliebig viele kleinere Fleischversammlungen entstehen.
+Die monatliche Abfrage macht mögliche Termine früh sichtbar.
 
 ## Ablauf
 
-1. Eine neue Abfrage wird erstellt.
-2. Der Link wird in der WhatsApp-Gruppenbeschreibung erneuert.
+1. Die Monatsabfrage wird erstellt.
+2. Der Link steht in der WhatsApp-Gruppenbeschreibung.
 3. Mitglieder tragen ihre Verfügbarkeit ein.
-4. Aus den Antworten entsteht der monatliche Fleischkalender.
-5. Wer eine passende Gelegenheit erkennt, kann daraus selbstständig eine Fleischversammlung anstoßen.
-6. Details werden danach gemeinsam geklärt.
+4. Daraus entsteht der Fleischkalender.
+5. Daraus können eine Hauptfleischversammlung und kleinere Treffen entstehen.
 
 Die Abfrage ist kein Vertrag, aber ein ernst gemeinter Hinweis auf mögliche Teilnahme.
 

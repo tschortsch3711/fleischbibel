@@ -18,7 +18,7 @@ WhatsApp dient der schnellen Abstimmung und dem laufenden Austausch.
 | WhatsApp-Gruppenbeschreibung | Aktuelle operative Links, insbesondere der monatliche Link zum Fleischmeldeamt |
 | Fleischbibel | Dauerhafte Regeln, Abläufe, Zugangshinweise und Orientierung |
 
-Der jeweils aktuelle Link zum Fleischmeldeamt steht in der WhatsApp-Gruppenbeschreibung und wird dort monatlich erneuert.
+Der aktuelle Link zum Fleischmeldeamt steht in der WhatsApp-Gruppenbeschreibung und wird dort monatlich erneuert.
 
 ## Dafür ist WhatsApp nicht da
 
@@ -27,7 +27,7 @@ Der jeweils aktuelle Link zum Fleischmeldeamt steht in der WhatsApp-Gruppenbesch
 - endlose Grundsatzdebatten kurz vor dem Einkauf
 - private Datenablage
 
-Wichtige Informationen gehören nach Möglichkeit in die Fleischbibel oder in die WhatsApp-Gruppenbeschreibung, wenn es sich um aktuelle operative Links handelt.
+Aktuelle Links gehören in die Gruppenbeschreibung. Dauerhafte Regeln und Abläufe gehören in die Fleischbibel.
 
 ::: info Praxis
 Wenn eine Information in drei Wochen noch auffindbar sein muss, gehört sie nicht nur in eine Chatnachricht.

@@ -1,12 +1,8 @@
 # Selbstverständnis
 
-Die Fleischgemeinschaft versteht sich nicht als Verein, Hierarchie oder Verpflichtungsgemeinschaft.
+Die Fleischgemeinschaft ist kein Verein, keine Hierarchie und keine Verpflichtungsgemeinschaft.
 
-Sie ist ein lockerer Zusammenschluss von Menschen, die gerne gemeinsam grillen, essen, trinken, reden und Zeit verbringen.
-
-Die Fleischgemeinschaft soll Treffen ermöglichen, nicht Verwaltung erzeugen.
-
-Je einfacher eine Fleischversammlung zustande kommt, desto eher erfüllt sie ihren Zweck.
+Sie soll Treffen ermöglichen, nicht Verwaltung erzeugen. Je einfacher eine Fleischversammlung zustande kommt, desto besser erfüllt sie ihren Zweck.
 
 ## Grundsätze
 

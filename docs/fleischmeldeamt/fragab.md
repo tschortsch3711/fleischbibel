@@ -1,8 +1,8 @@
 # Fragab
 
-Fragab dient der monatlichen Terminübersicht der Fleischgemeinschaft.
+Fragab ist das Werkzeug für die monatliche Terminübersicht der Fleischgemeinschaft.
 
-Aus allen abgegebenen Stimmen entsteht der zentrale Fleischkalender. Er macht sichtbar, an welchen Tagen bei welchen Mitgliedern grundsätzlich Fleischesslust besteht.
+Aus allen Stimmen entsteht der zentrale Fleischkalender. Er macht sichtbar, an welchen Tagen bei welchen Mitgliedern grundsätzlich Fleischesslust besteht.
 
 ## Aktueller Link
 
@@ -14,7 +14,9 @@ Er wird jeden Monat in der WhatsApp-Gruppenbeschreibung erneuert und ist dort f�
 Die Fleischbibel ist öffentlich erreichbar. Der monatliche Fragab-Link ist dagegen ein wechselnder Organisationslink für die Gruppe und bleibt deshalb in der WhatsApp-Gruppe.
 :::
 
-## Nutzung
+## Konto und Nutzung
+
+Ein Fragab-Konto ist erforderlich, damit Stimmabgaben im Fleischkalender eigenständig angepasst werden können.
 
 - Namen oder Kürzel eintragen, ohne private Daten zu veröffentlichen.
 - Verfügbarkeiten möglichst vollständig markieren.

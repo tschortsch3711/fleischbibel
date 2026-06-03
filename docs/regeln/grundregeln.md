@@ -18,5 +18,5 @@ Wenn sich niemand für eine Aufgabe findet, wird dieser Teil nicht gemacht. Das 
 :::
 
 ::: info Unkompliziertheitsprinzip
-Eine Fleischversammlung braucht keinen großen Planungsapparat, keine perfekte Rollenverteilung und keine unnötige Vorbereitung. Sie braucht Menschen, Fleisch, einen machbaren Ort und die Bereitschaft, gemeinsam anzupacken.
+Eine Fleischversammlung braucht keinen Planungsapparat. Sie braucht Menschen, Fleisch, einen machbaren Ort und gemeinsames Anpacken.
 :::
