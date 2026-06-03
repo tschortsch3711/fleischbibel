@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Die Fleischbibel"
   text: "Die zentrale Ordnung der Fleischgemeinschaft"
-  tagline: "Regeln, Termine, Rituale und amtlich anmutende Fleischeslust an einem Ort."
+  tagline: "Regeln, Termine, Rituale und geordnete Fleischesslust an einem Ort."
   actions:
     - theme: brand
       text: Zur Fleischgemeinschaft
@@ -16,7 +16,7 @@ features:
     details: Was uns verbindet, wie die Gruppe funktioniert und warum Fleisch hier mehr ist als ein Lebensmittel.
   - icon: 🏛️
     title: Fleischmeldeamt
-    details: Die monatliche Verfügbarkeitsabfrage für alle, die der Fleischeslust nachgehen möchten.
+    details: Die monatliche Verfügbarkeitsabfrage, aus der der gemeinsame Fleischkalender entsteht.
   - icon: 📜
     title: Regeln
     details: Klare Grundsätze für WhatsApp, Treffen, Organisation und freiwillige Beteiligung.
@@ -26,21 +26,23 @@ features:
   - icon: 🍻
     title: Kultur
     details: Begriffe, Hymne, Chronik und sonstige Zeugnisse der Fleischwerdung.
-  - icon: 🔗
-    title: Links
-    details: Zentrale Verweise zu WhatsApp, Fragab, Hymne und weiteren dauerhaft nützlichen Anlaufstellen.
+  - icon: 🗂️
+    title: Verwaltung & Links
+    details: Öffentliche Hinweise zu Zugang, Fleischmeldeamt, Hymne und dauerhaft nützlichen Anlaufstellen.
 ---
 
 ## Zweck dieser Seite
 
 Die Fleischbibel ist der feste Ort für alles, was in der WhatsApp-Gruppe zu wichtig ist, um zwischen Bildern, Sprüchen und Terminabsprachen unterzugehen.
 
-Sie sammelt Regeln, Abläufe, Links und Begriffe der Fleischgemeinschaft.
+Sie sammelt Regeln, Abläufe, Zugangshinweise und Begriffe der Fleischgemeinschaft.
 
 Kurzfassung:
 
 - WhatsApp dient der schnellen Abstimmung.
-- Fragab dient der monatlichen Terminübersicht.
+- Die WhatsApp-Gruppenbeschreibung enthält aktuelle operative Links, zum Beispiel zum monatlichen Fleischmeldeamt.
+- Das Fleischmeldeamt bildet aus den monatlichen Rückmeldungen den gemeinsamen Fleischkalender.
+- Fragab ist das Werkzeug für die monatliche Abfrage.
 - Die Fleischbibel dient der dauerhaften Orientierung.
 
 ::: tip Amtlicher Hinweis
