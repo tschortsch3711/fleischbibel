@@ -4,14 +4,16 @@ Eine Fleischversammlung kann jederzeit vorgeschlagen werden, wenn Anlass, Hunger
 
 Sie muss nicht aus dem Fleischmeldeamt heraus geboren werden. Jedes interessierte Mitglied kann einen Vorschlag einbringen.
 
+Jedes Mitglied kann aus einem sichtbaren Terminfenster im Fleischkalender selbstständig eine Fleischversammlung machen.
+
 ## Vorschlag erstellen
 
 Für eine neue Fleischversammlung reicht zunächst ein klarer Vorschlag:
 
 1. Betreff festlegen.
 2. Möglichen Zeitraum nennen.
-3. Fragab-Abfrage oder Terminabstimmung anlegen.
-4. Link in WhatsApp teilen.
+3. Terminabstimmung oder konkrete Zusageklärung anstoßen.
+4. Vorschlag in WhatsApp teilen.
 5. Bei ausreichender Resonanz Details klären.
 
 Der Betreff soll verständlich sein. Gute Betreffzeilen sind zum Beispiel:
@@ -31,10 +33,12 @@ Das Konto macht niemanden zum Oberhaupt. Es ist nur das Werkzeug, mit dem ein Vo
 Wer die Abfrage erstellt, achtet auf einen klaren Betreff, einen brauchbaren Zeitraum und einen auffindbaren Link. Mehr Amt entsteht daraus nicht automatisch.
 :::
 
-## Auf der Startseite sichtbar machen
+## Sichtbarkeit von Links
 
-Wenn eine Fleischversammlung wichtig genug ist, kann der Link zusätzlich in der Fleischbibel sichtbar gemacht werden, zum Beispiel auf der Startseite, im Bereich [Links](/links) oder direkt im [Fleischmeldeamt](/fleischmeldeamt/).
+Wechselnde oder private Abstimmungslinks gehören in die WhatsApp-Gruppenbeschreibung oder in den Chat.
 
-Das ist besonders sinnvoll, wenn der Vorschlag länger laufen soll oder nicht im WhatsApp-Verlauf untergehen darf.
+In der Fleischbibel werden nur dauerhafte Hinweise und öffentliche Informationen gepflegt.
+
+Das verhindert, dass private oder monatlich wechselnde Organisationslinks öffentlich stehen oder später veraltet herumliegen.
 
 [Weiter zur Hauptfleischversammlung](/fleischmeldeamt/hauptfleischversammlung)
