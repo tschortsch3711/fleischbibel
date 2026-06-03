@@ -40,7 +40,7 @@ Entscheidend ist, dass Ort, Zeit, Rahmen und Selbstversorgung ausreichend klar s
 
 ## Fragab und Konto
 
-Je nach Fragab-Einstellung kann zum Erstellen einer Abfrage eine Registrierung oder ein Konto nötig sein.
+Ein Fragab-Konto ist erforderlich, damit Stimmabgaben im Fleischkalender eigenständig angepasst werden können.
 
 Das Konto macht niemanden zum Oberhaupt. Es ist nur das Werkzeug, mit dem ein Vorschlag angelegt, angepasst und bei Bedarf gepflegt werden kann.
 
