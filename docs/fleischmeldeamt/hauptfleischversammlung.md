@@ -14,6 +14,10 @@ Sie ist der monatliche Mittelpunkt, während der Fleischkalender jederzeit weite
 
 Kleinere, spontane oder dezentrale Runden sind ausdrücklich möglich und brauchen keine zentrale Freigabe.
 
+Die Hauptfleischversammlung ist der monatliche Mittelpunkt, aber nicht der Maßstab für jede Fleischversammlung.
+
+Kleinere Treffen dürfen bewusst einfacher, kürzer und spontaner sein.
+
 ## Mögliche Inhalte
 
 - gemeinsames Grillen
