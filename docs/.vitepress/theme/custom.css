@@ -227,6 +227,21 @@ body {
   background: #100c0d;
 }
 
+@media (max-width: 1100px) {
+  .VPNavBarMenu,
+  .VPNavBarExtra {
+    display: none !important;
+  }
+
+  .VPNavBarHamburger {
+    display: flex !important;
+  }
+
+  .VPNavBar .content-body {
+    overflow: visible;
+  }
+}
+
 @media (max-width: 768px) {
   .VPHero {
     padding-top: 44px;

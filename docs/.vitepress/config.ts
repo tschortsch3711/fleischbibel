@@ -9,6 +9,7 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     logo: { light: '/logo.svg', dark: '/logo.svg' },
+    logoLink: '/fleischbibel/',
     nav: [
       { text: 'Start', link: '/' },
       { text: '2-Minuten-Guide', link: '/schnellstart' },
