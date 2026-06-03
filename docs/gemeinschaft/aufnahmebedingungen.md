@@ -2,6 +2,10 @@
 
 Neue Mitglieder können aufgenommen werden, wenn sie zur Gruppe passen und den Charakter der Fleischgemeinschaft verstehen.
 
+Der Zugang zur WhatsApp-Gruppe erfolgt nicht über einen öffentlichen Link, sondern ausschließlich durch Einladung eines bestehenden Mitglieds.
+
+Wer jemanden einlädt, sollte einschätzen können, dass die Person zur Fleischgemeinschaft passt.
+
 ## Voraussetzungen
 
 1. Grundsätzliche Fleischesslust.
