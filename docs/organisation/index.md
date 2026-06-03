@@ -9,3 +9,5 @@ Es gibt kein dauerhaftes Oberhaupt, keine automatische Geschäftsführung und ke
 Wer eine Idee hat, kann sie einbringen. Wer helfen kann, hilft. Wer nicht kann, kann nicht.
 
 Organisation ist hier ein Werkzeug, kein Herrschaftsmodell.
+
+Der Fleischkalender ist kein Dienstplan, sondern eine Orientierungshilfe. Wer darin eine Gelegenheit erkennt, kann daraus selbst ein Treffen machen.
