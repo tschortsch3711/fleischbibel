@@ -1,6 +1,6 @@
 # Die Fleischgemeinschaft
 
-Die Fleischgemeinschaft ist ein freiwilliger Zusammenschluss gleichgesinnter Fleischliebhaber.
+Die Fleischgemeinschaft vereint freiwillig gleichgesinnte Fleischliebhaber.
 
 Im Mittelpunkt stehen:
 
