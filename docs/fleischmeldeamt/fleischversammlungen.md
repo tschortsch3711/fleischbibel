@@ -6,6 +6,12 @@ Sie muss nicht aus dem Fleischmeldeamt heraus geboren werden. Jedes interessiert
 
 Jedes Mitglied kann aus einem sichtbaren Terminfenster im Fleischkalender selbstständig eine Fleischversammlung machen.
 
+Fleischversammlungen können unterschiedlich groß sein.
+
+Denkbar ist alles von einer langen Abendversammlung bis zur kurzen Mittagsversammlung. Nicht jede Zusammenkunft braucht denselben Aufwand.
+
+Mit der Zeit wird die Gemeinschaft lernen, welche Formate gut funktionieren.
+
 ## Vorschlag erstellen
 
 Für eine neue Fleischversammlung reicht zunächst ein klarer Vorschlag:
@@ -22,6 +28,15 @@ Der Betreff soll verständlich sein. Gute Betreffzeilen sind zum Beispiel:
 - `Grillen am Samstag`
 - `Spontane Fleischlage`
 - `Hauptfleischversammlung Sommer`
+- `Mittagsfleisch`
+
+## Aufwand und Format
+
+Eine Fleischversammlung darf groß, klein, geplant, spontan, lang oder kurz sein.
+
+Der Aufwand soll zum Anlass passen. Ein kleines Treffen braucht keine Struktur wie eine Hauptfleischversammlung.
+
+Entscheidend ist, dass Ort, Zeit, Rahmen und Selbstversorgung ausreichend klar sind.
 
 ## Fragab und Konto
 
