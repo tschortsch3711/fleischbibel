@@ -1,4 +1,58 @@
 :root {
+  --fb-page-gradient: linear-gradient(180deg, rgba(240, 179, 90, 0.18), transparent 420px);
+  --fb-hero-name-background: linear-gradient(90deg, #7a2328 0%, #b85c32 48%, #d98e3f 100%);
+  --fb-hero-text: #2a1513;
+  --fb-hero-tagline: #654434;
+  --fb-nav-title: #4b211d;
+  --fb-doc-heading: #4b211d;
+  --fb-sidebar-bg: #fff7ec;
+  --fb-footer-bg: #fff4e4;
+  --fb-feature-bg: linear-gradient(180deg, rgba(159, 47, 53, 0.055), rgba(240, 179, 90, 0.14));
+  --fb-feature-title: #4b211d;
+  --fb-feature-details: #6f5547;
+  --fb-blockquote-bg: rgba(159, 47, 53, 0.08);
+  --fb-blockquote-text: #654434;
+  --fb-table-head-bg: rgba(159, 47, 53, 0.12);
+
+  --vp-c-bg: #fffaf2;
+  --vp-c-bg-alt: #fff4e4;
+  --vp-c-bg-elv: #ffffff;
+  --vp-c-bg-soft: #fff0db;
+  --vp-c-text-1: #2a1513;
+  --vp-c-text-2: #654434;
+  --vp-c-text-3: #8a6d5b;
+  --vp-c-brand-1: #9f2f35;
+  --vp-c-brand-2: #b85c32;
+  --vp-c-brand-3: #d98e3f;
+  --vp-c-brand-soft: rgba(159, 47, 53, 0.12);
+  --vp-c-border: rgba(159, 47, 53, 0.22);
+  --vp-c-divider: rgba(42, 21, 19, 0.12);
+  --vp-code-block-bg: #fff4e4;
+  --vp-code-bg: rgba(159, 47, 53, 0.08);
+  --vp-font-family-base: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: var(--fb-hero-name-background);
+  --vp-home-hero-image-background-image: radial-gradient(circle, rgba(240, 179, 90, 0.36), transparent 68%);
+  --vp-home-hero-image-filter: blur(36px);
+}
+
+.dark {
+  color-scheme: dark;
+  --fb-page-gradient: linear-gradient(180deg, rgba(67, 18, 22, 0.22), transparent 420px);
+  --fb-hero-name-background: linear-gradient(90deg, #fff1c2 0%, #f0b35a 44%, #c84843 100%);
+  --fb-hero-text: #fff6e6;
+  --fb-hero-tagline: #d8c5ad;
+  --fb-nav-title: #fff1c2;
+  --fb-doc-heading: #fff1c2;
+  --fb-sidebar-bg: #171112;
+  --fb-footer-bg: #100c0d;
+  --fb-feature-bg: linear-gradient(180deg, rgba(255, 246, 230, 0.055), rgba(159, 47, 53, 0.08));
+  --fb-feature-title: #fff1c2;
+  --fb-feature-details: #d8c5ad;
+  --fb-blockquote-bg: rgba(159, 47, 53, 0.14);
+  --fb-blockquote-text: #e7d2b9;
+  --fb-table-head-bg: rgba(159, 47, 53, 0.24);
+
   --vp-c-bg: #130f10;
   --vp-c-bg-alt: #1b1516;
   --vp-c-bg-elv: #241a1b;
@@ -14,25 +68,18 @@
   --vp-c-divider: rgba(255, 246, 230, 0.12);
   --vp-code-block-bg: #0d0a0a;
   --vp-code-bg: rgba(240, 179, 90, 0.12);
-  --vp-font-family-base: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(90deg, #fff1c2 0%, #f0b35a 44%, #c84843 100%);
+  --vp-home-hero-name-background: var(--fb-hero-name-background);
   --vp-home-hero-image-background-image: radial-gradient(circle, rgba(159, 47, 53, 0.45), transparent 68%);
-  --vp-home-hero-image-filter: blur(36px);
-}
-
-.dark {
-  color-scheme: dark;
 }
 
 body {
   background:
-    linear-gradient(180deg, rgba(67, 18, 22, 0.22), transparent 420px),
+    var(--fb-page-gradient),
     var(--vp-c-bg);
 }
 
 .VPNavBar {
-  border-bottom: 1px solid rgba(240, 179, 90, 0.14);
+  border-bottom: 1px solid var(--vp-c-divider);
 }
 
 .VPNavBar.has-sidebar .content,
@@ -43,7 +90,7 @@ body {
 }
 
 .VPNavBarTitle .title {
-  color: #fff1c2;
+  color: var(--fb-nav-title);
   font-weight: 800;
   letter-spacing: 0;
 }
@@ -66,12 +113,12 @@ body {
 }
 
 .VPHero .text {
-  color: #fff6e6;
+  color: var(--fb-hero-text);
   max-width: 960px;
 }
 
 .VPHero .tagline {
-  color: #d8c5ad;
+  color: var(--fb-hero-tagline);
   max-width: 960px;
   font-size: 22px;
   line-height: 1.55;
@@ -120,23 +167,23 @@ body {
 }
 
 .VPButton.alt {
-  border-color: rgba(240, 179, 90, 0.38);
-  background: rgba(255, 246, 230, 0.06);
-  color: #fff1c2;
+  border-color: var(--vp-c-border);
+  background: var(--vp-c-brand-soft);
+  color: var(--vp-c-brand-1);
 }
 
 .VPFeature {
-  border: 1px solid rgba(240, 179, 90, 0.18);
+  border: 1px solid var(--vp-c-border);
   border-radius: 8px;
-  background: linear-gradient(180deg, rgba(255, 246, 230, 0.055), rgba(159, 47, 53, 0.08));
+  background: var(--fb-feature-bg);
 }
 
 .VPFeature .title {
-  color: #fff1c2;
+  color: var(--fb-feature-title);
 }
 
 .VPFeature .details {
-  color: #d8c5ad;
+  color: var(--fb-feature-details);
 }
 
 .VPFeatures .items {
@@ -146,13 +193,13 @@ body {
 .vp-doc h1,
 .vp-doc h2,
 .vp-doc h3 {
-  color: #fff1c2;
+  color: var(--fb-doc-heading);
   letter-spacing: 0;
 }
 
 .vp-doc a {
-  color: #f0b35a;
-  text-decoration-color: rgba(240, 179, 90, 0.42);
+  color: var(--vp-c-brand-1);
+  text-decoration-color: var(--vp-c-border);
 }
 
 .vp-doc p,
@@ -161,11 +208,11 @@ body {
 }
 
 .vp-doc blockquote {
-  border-left-color: #9f2f35;
-  background: rgba(159, 47, 53, 0.14);
+  border-left-color: var(--vp-c-brand-3);
+  background: var(--fb-blockquote-bg);
   border-radius: 0 8px 8px 0;
   padding: 12px 16px;
-  color: #e7d2b9;
+  color: var(--fb-blockquote-text);
 }
 
 .vp-doc table {
@@ -177,13 +224,13 @@ body {
 }
 
 .vp-doc th {
-  background: rgba(159, 47, 53, 0.24);
-  color: #fff1c2;
+  background: var(--fb-table-head-bg);
+  color: var(--fb-doc-heading);
 }
 
 .vp-doc td,
 .vp-doc th {
-  border-color: rgba(240, 179, 90, 0.18);
+  border-color: var(--vp-c-border);
 }
 
 .custom-block {
@@ -201,31 +248,31 @@ body {
 }
 
 .custom-block.info {
-  border-color: rgba(255, 246, 230, 0.26);
-  background: rgba(255, 246, 230, 0.07);
+  border-color: var(--vp-c-border);
+  background: var(--vp-c-brand-soft);
 }
 
 .custom-block-title {
-  color: #fff1c2;
+  color: var(--fb-doc-heading);
 }
 
 .VPSidebar {
-  background: #171112;
-  border-right: 1px solid rgba(240, 179, 90, 0.12);
+  background: var(--fb-sidebar-bg);
+  border-right: 1px solid var(--vp-c-divider);
 }
 
 .VPSidebarItem.level-0 > .item > .text {
-  color: #f0b35a;
+  color: var(--vp-c-brand-1);
   font-weight: 760;
 }
 
 .VPSidebarItem.is-active > .item .link > .text {
-  color: #fff1c2;
+  color: var(--fb-doc-heading);
 }
 
 .VPFooter {
-  border-top: 1px solid rgba(240, 179, 90, 0.14);
-  background: #100c0d;
+  border-top: 1px solid var(--vp-c-divider);
+  background: var(--fb-footer-bg);
 }
 
 @media (max-width: 1100px) {
