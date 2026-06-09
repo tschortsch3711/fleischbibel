@@ -38,7 +38,7 @@ Es kann nicht ausgeschlossen werden, dass hierbei personenbezogene Daten, insbes
 
 Weitere Informationen zum Datenschutz bei GitHub finden Sie unter:
 
-https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
 
 ---
 
