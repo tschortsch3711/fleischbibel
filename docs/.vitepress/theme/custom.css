@@ -5,6 +5,7 @@
   --fb-hero-tagline: #654434;
   --fb-nav-title: #4b211d;
   --fb-doc-heading: #4b211d;
+  --fb-navbar-bg: rgba(255, 250, 242, 0.98);
   --fb-sidebar-bg: #fff7ec;
   --fb-footer-bg: #fff4e4;
   --fb-feature-bg: linear-gradient(180deg, rgba(159, 47, 53, 0.055), rgba(240, 179, 90, 0.14));
@@ -44,6 +45,7 @@
   --fb-hero-tagline: #d8c5ad;
   --fb-nav-title: #fff1c2;
   --fb-doc-heading: #fff1c2;
+  --fb-navbar-bg: rgba(19, 15, 16, 0.98);
   --fb-sidebar-bg: #171112;
   --fb-footer-bg: #100c0d;
   --fb-feature-bg: linear-gradient(180deg, rgba(255, 246, 230, 0.055), rgba(159, 47, 53, 0.08));
@@ -80,13 +82,15 @@ body {
 
 .VPNavBar {
   border-bottom: 1px solid var(--vp-c-divider);
+  background: var(--fb-navbar-bg) !important;
+  backdrop-filter: blur(18px);
 }
 
 .VPNavBar.has-sidebar .content,
 .VPNavBar:not(.has-sidebar) .content,
 .VPNavBar .content-body {
-  background: transparent !important;
-  backdrop-filter: none !important;
+  background: var(--fb-navbar-bg) !important;
+  backdrop-filter: blur(18px) !important;
 }
 
 .VPNavBarTitle .title {
