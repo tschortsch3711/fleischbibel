@@ -4,7 +4,7 @@ Die Fleischhymne ist das musikalische Hoheitszeichen der Fleischgemeinschaft.
 
 ## Link
 
-[Fleischhymne auf Suno öffnen](https://suno.com/s/JiIHU1z8l4DtUshc)
+[Offizieller Streaming-Link der Fleischhymne](https://share.amuse.io/track/tschortsch-fleisch)
 
 ## Umgang
 
