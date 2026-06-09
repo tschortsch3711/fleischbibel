@@ -32,8 +32,8 @@ export default defineConfig({
     search: { provider: 'local' },
     socialLinks: [{ icon: 'github', link: 'https://github.com/tschortsch3711/fleischbibel' }],
     footer: {
-      message: 'Amtlich anmutend, gemeinschaftlich gepflegt.',
-      copyright: 'Fleischbibel der privaten Fleischgemeinschaft<br><a href="/impressum">Impressum</a> | <a href="/datenschutz">Datenschutz</a>'
+      message: 'Ordnung muss sein. Fleisch auch. 🥩',
+      copyright: '© Fleischgemeinschaft<br><br><a href="/impressum">Impressum</a> · <a href="/datenschutz">Datenschutz</a>'
     },
     lastUpdatedText: 'Zuletzt aktualisiert',
     outline: { label: 'Auf dieser Seite' },
