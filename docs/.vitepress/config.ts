@@ -33,7 +33,7 @@ export default defineConfig({
     socialLinks: [{ icon: 'github', link: 'https://github.com/tschortsch3711/fleischbibel' }],
     footer: {
       message: 'Amtlich anmutend, gemeinschaftlich gepflegt.',
-      copyright: '<a href="/impressum">Impressum</a> | <a href="/datenschutz">Datenschutz</a><br>Fleischbibel der privaten Fleischgemeinschaft'
+      copyright: 'Fleischbibel der privaten Fleischgemeinschaft<br><a href="/impressum">Impressum</a> | <a href="/datenschutz">Datenschutz</a>'
     },
     lastUpdatedText: 'Zuletzt aktualisiert',
     outline: { label: 'Auf dieser Seite' },
