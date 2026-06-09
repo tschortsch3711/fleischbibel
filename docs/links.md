@@ -6,7 +6,7 @@ Zentrale Links und Hinweise der Fleischgemeinschaft.
 | --- | --- | --- |
 | WhatsApp-Gruppe | Kein öffentlicher Link | Zugang ausschließlich per Einladung durch ein bestehendes Mitglied. |
 | Fleischmeldeamt / Fragab | Kein öffentlicher Link | Der aktuelle Monatslink steht in der WhatsApp-Gruppenbeschreibung. |
-| Fleischhymne | [Suno-Link](https://suno.com/s/JiIHU1z8l4DtUshc) | Offizieller Hymnen-Link der Fleischgemeinschaft. |
+| Fleischhymne | [Offizieller Streaming-Link](https://share.amuse.io/track/tschortsch-fleisch) | Offizielle Veröffentlichung der Fleischhymne. |
 | GitHub | [Repository](https://github.com/tschortsch3711/fleischbibel) | Quelltext dieser Dokumentation. |
 
 ::: tip Hinweis
