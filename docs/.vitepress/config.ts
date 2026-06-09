@@ -76,7 +76,15 @@ export default defineConfig({
         text: 'Verwaltung',
         items: [
           { text: 'Links', link: '/links' },
-          { text: 'Hinweise', link: '/hinweise' }
+          { text: 'Hinweise', link: '/hinweise' },
+          {
+            text: 'Rechtliches',
+            collapsed: false,
+            items: [
+              { text: 'Impressum', link: '/impressum' },
+              { text: 'Datenschutz', link: '/datenschutz' }
+            ]
+          }
         ]
       }
     ],
@@ -87,7 +95,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/tschortsch3711/fleischbibel' }
     ],
     footer: {
-      message: 'Amtlich anmutend, gemeinschaftlich gepflegt.',
+      message: 'Amtlich anmutend, gemeinschaftlich gepflegt. [Impressum](/impressum) | [Datenschutz](/datenschutz)',
       copyright: 'Fleischbibel der privaten Fleischgemeinschaft'
     },
     lastUpdatedText: 'Zuletzt aktualisiert',
