@@ -81,14 +81,34 @@ body {
 }
 
 .VPNavBar {
-  border-bottom: 1px solid var(--vp-c-divider);
+  border-bottom: none !important;
   background: var(--fb-navbar-bg) !important;
   backdrop-filter: blur(18px);
+}
+
+.VPNavBar::after {
+  content: "";
+  position: fixed;
+  top: var(--vp-nav-height);
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--vp-c-divider);
+  pointer-events: none;
+  z-index: calc(var(--vp-z-index-nav) + 1);
+}
+
+.VPNavBar .divider,
+.VPNavBar .divider-line,
+.VPNavBar .content::after,
+.VPNavBar .content-body::after {
+  display: none !important;
 }
 
 .VPNavBar.has-sidebar .content,
 .VPNavBar:not(.has-sidebar) .content,
 .VPNavBar .content-body {
+  border-bottom: none !important;
   background: var(--fb-navbar-bg) !important;
   backdrop-filter: blur(18px) !important;
 }
