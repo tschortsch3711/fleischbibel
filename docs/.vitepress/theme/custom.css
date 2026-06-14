@@ -240,11 +240,17 @@ body {
 }
 
 .vp-doc table {
-  display: table;
-  width: 100%;
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
-  overflow: hidden;
   border-radius: 8px;
+}
+
+.vp-doc table::-webkit-scrollbar {
+  height: 8px;
 }
 
 .vp-doc th {
@@ -255,6 +261,21 @@ body {
 .vp-doc td,
 .vp-doc th {
   border-color: var(--vp-c-border);
+  vertical-align: top;
+  word-break: normal;
+  overflow-wrap: normal;
+}
+
+.vp-doc td:nth-child(1),
+.vp-doc th:nth-child(1),
+.vp-doc td:nth-child(2),
+.vp-doc th:nth-child(2) {
+  white-space: nowrap;
+}
+
+.vp-doc td:nth-child(3),
+.vp-doc th:nth-child(3) {
+  min-width: 340px;
 }
 
 .custom-block {
@@ -324,7 +345,7 @@ body {
   }
 
   .vp-doc table {
-    display: block;
+    min-width: 680px;
   }
 }
 
