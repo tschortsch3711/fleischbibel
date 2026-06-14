@@ -241,12 +241,14 @@ body {
 
 .vp-doc table {
   display: block;
-  width: max-content;
+  width: 100%;
   max-width: 100%;
   overflow-x: auto;
+  overflow-y: hidden;
   -webkit-overflow-scrolling: touch;
   border-collapse: collapse;
   border-radius: 8px;
+  box-sizing: border-box;
 }
 
 .vp-doc table::-webkit-scrollbar {
@@ -267,10 +269,14 @@ body {
 }
 
 .vp-doc td:nth-child(1),
-.vp-doc th:nth-child(1),
+.vp-doc th:nth-child(1) {
+  min-width: 112px;
+  white-space: nowrap;
+}
+
 .vp-doc td:nth-child(2),
 .vp-doc th:nth-child(2) {
-  white-space: nowrap;
+  min-width: 220px;
 }
 
 .vp-doc td:nth-child(3),
@@ -345,7 +351,7 @@ body {
   }
 
   .vp-doc table {
-    min-width: 680px;
+    margin-right: 0;
   }
 }
 
