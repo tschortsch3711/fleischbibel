@@ -12,24 +12,24 @@ assert.match(
 
 assert.doesNotMatch(
   css,
-  /\.vp-doc (?:td|th):nth-child\([^)]+\)[\s\S]*?min-width:/,
-  "table columns should not be globally widened with min-width rules",
+  /@media \(max-width: 768px\)\s*\{[\s\S]*?display:\s*grid;/s,
+  "mobile tables should remain real tables so borders and rows stay visually intact",
 );
 
 assert.match(
   css,
-  /@media \(max-width: 768px\)\s*\{[\s\S]*?\.vp-doc table\s*\{[\s\S]*?display:\s*grid;/s,
-  "mobile document tables should switch to grid so column caps are actually applied",
+  /\.vp-doc table:has\(th:nth-child\(3\):last-child\) td:first-child,[\s\S]*?min-width:\s*10ch;/s,
+  "three-column tables should keep date-sized first columns readable on desktop",
 );
 
 assert.match(
   css,
-  /\.vp-doc table:has\(th:nth-child\(2\):last-child\)\s*\{[^}]*grid-template-columns:\s*clamp\(8rem,\s*38%,\s*14rem\)\s*minmax\(0,\s*1fr\);/s,
-  "two-column tables should cap the label column and leave the remaining width to content",
+  /@media \(max-width: 768px\)\s*\{[\s\S]*?\.vp-doc table\s*\{[\s\S]*?table-layout:\s*fixed;/s,
+  "mobile tables should use fixed layout so percentage column widths are stable",
 );
 
 assert.match(
   css,
-  /\.vp-doc table:has\(th:nth-child\(3\):last-child\)\s*\{[^}]*grid-template-columns:\s*clamp\(5\.5rem,\s*28%,\s*8rem\)\s*clamp\(6rem,\s*34%,\s*13rem\)\s*minmax\(0,\s*1fr\);/s,
-  "three-column tables need explicit mobile columns for date, title, and context",
+  /@media \(max-width: 768px\)\s*\{[\s\S]*?\.vp-doc table:has\(th:nth-child\(3\):last-child\) td:nth-child\(2\),[\s\S]*?width:\s*42%;/s,
+  "mobile three-column tables should give the event column more room",
 );

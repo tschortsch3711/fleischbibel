@@ -273,6 +273,7 @@ body {
 .vp-doc table:has(th:nth-child(3):last-child) td:first-child,
 .vp-doc table:has(th:nth-child(3):last-child) th:first-child {
   width: clamp(5.75rem, 24%, 8rem);
+  min-width: 10ch;
   max-width: 8rem;
 }
 
@@ -356,21 +357,22 @@ body {
   }
 
   .vp-doc table {
-    display: grid;
+    table-layout: fixed;
   }
 
-  .vp-doc thead,
-  .vp-doc tbody,
-  .vp-doc tr {
-    display: contents;
+  .vp-doc table:has(th:nth-child(2):last-child) td:first-child,
+  .vp-doc table:has(th:nth-child(2):last-child) th:first-child {
+    width: 42%;
   }
 
-  .vp-doc table:has(th:nth-child(2):last-child) {
-    grid-template-columns: clamp(8rem, 38%, 14rem) minmax(0, 1fr);
+  .vp-doc table:has(th:nth-child(3):last-child) td:first-child,
+  .vp-doc table:has(th:nth-child(3):last-child) th:first-child {
+    width: 26%;
   }
 
-  .vp-doc table:has(th:nth-child(3):last-child) {
-    grid-template-columns: clamp(5.5rem, 28%, 8rem) clamp(6rem, 34%, 13rem) minmax(0, 1fr);
+  .vp-doc table:has(th:nth-child(3):last-child) td:nth-child(2),
+  .vp-doc table:has(th:nth-child(3):last-child) th:nth-child(2) {
+    width: 42%;
   }
 }
 
