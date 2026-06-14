@@ -273,13 +273,14 @@ body {
 .vp-doc table:has(th:nth-child(3):last-child) td:first-child,
 .vp-doc table:has(th:nth-child(3):last-child) th:first-child {
   width: clamp(5.75rem, 24%, 8rem);
-  min-width: 10ch;
+  min-width: 12ch;
   max-width: 8rem;
 }
 
 .vp-doc table:has(th:nth-child(3):last-child) td:nth-child(2),
 .vp-doc table:has(th:nth-child(3):last-child) th:nth-child(2) {
   width: clamp(7rem, 34%, 13rem);
+  min-width: 16ch;
   max-width: 13rem;
 }
 
