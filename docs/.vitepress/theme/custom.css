@@ -368,12 +368,12 @@ body {
 
   .vp-doc table:has(th:nth-child(3):last-child) td:first-child,
   .vp-doc table:has(th:nth-child(3):last-child) th:first-child {
-    width: 26%;
+    width: 24%;
   }
 
   .vp-doc table:has(th:nth-child(3):last-child) td:nth-child(2),
   .vp-doc table:has(th:nth-child(3):last-child) th:nth-child(2) {
-    width: 42%;
+    width: 35%;
   }
 }
 
