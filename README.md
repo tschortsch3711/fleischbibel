@@ -4,6 +4,8 @@ Die Fleischbibel ist die zentrale, dauerhaft verfügbare Dokumentation der Fleis
 
 Sie sammelt Regeln, Abläufe, Begriffe, Links und Gruppen-Lore an einem Ort, damit wichtige Informationen nicht in der WhatsApp-Gruppenbeschreibung oder im Chatverlauf verloren gehen.
 
+Live: https://www.fleischbibel.de
+
 ## Entwicklung
 
 Voraussetzung: Node.js LTS, empfohlen Version 20 oder neuer.
@@ -13,7 +15,7 @@ npm install
 npm run docs:dev
 ```
 
-Die lokale VitePress-Seite läuft danach standardmäßig unter `http://localhost:5173/fleischbibel/`.
+Die lokale VitePress-Seite läuft danach standardmäßig unter `http://localhost:5173/`.
 
 ## Build
 
@@ -42,7 +44,7 @@ Nach einer Änderung lokal prüfen:
 npm run docs:dev
 ```
 
-Im Browser dann `http://localhost:5173/fleischbibel/` öffnen. Falls der Server schon läuft, reicht meistens Neuladen im Browser.
+Im Browser dann `http://localhost:5173/` öffnen. Falls der Server schon läuft, reicht meistens Neuladen im Browser.
 
 Vor dem Veröffentlichen prüfen:
 
@@ -62,12 +64,12 @@ In den GitHub Repository Settings muss unter `Pages` als Source `GitHub Actions`
 
 Der Workflow baut VitePress und veröffentlicht `docs/.vitepress/dist` als GitHub Pages Artifact.
 
-## Base Path
+## Domain und Base Path
 
-Das Repository heißt `fleischbibel` und wird als GitHub Project Page veröffentlicht. Deshalb ist in `docs/.vitepress/config.ts` gesetzt:
+Die Seite läuft unter der eigenen Domain `www.fleischbibel.de`. Die Domain steht in `docs/public/CNAME`, die alte Adresse `tschortsch3711.github.io/fleischbibel/` leitet dorthin weiter.
+
+Weil die Seite direkt an der Wurzel der Domain liegt, ist in `docs/.vitepress/config.ts` gesetzt:
 
 ```ts
-base: '/fleischbibel/'
+base: '/'
 ```
-
-Falls später eine Custom Domain verwendet wird, kann dieser Wert je nach Zielkonfiguration auf `/` geändert werden.
